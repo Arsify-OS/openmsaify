@@ -1,9 +1,4 @@
-"""
-setup — Polymarket Trading Engine
-Part of openmsaify-trading (MIT License)
-Copyright (c) 2025 OpenMSAify
-"""
-
-"""Legacy setup.py — delegates to pyproject.toml."""
+# pyproject.toml — kept for pip/setuptools compatibility
+# Primary config is in pyproject.toml (root)
 from setuptools import setup
 setup()
