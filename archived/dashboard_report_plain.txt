@@ -1,0 +1,108 @@
+==================================================
+POLYMARKET AUTOTRADER SCAN
+==================================================
+  snapshot: 100/100 markets saved
+  low_price: 9
+  volume_spikes: 0
+  price_patterns: 1
+  large_trades: 0
+  whale_activity: 0
+  correlations: 5
+  saved (new): 1
+
+🔍 POLYMARKET AUTO-TRADER
+📅 2026-05-15 04:06 UTC
+📊 Historical Prior: 95K resolved markets
+
+💰 LOW PRICE (5 found)
+• Will Bitcoin reach $88,000 May 11-17?...
+  2.5¢ | Vol $99,862 | ROI +3900% (39.0x)
+  Score: 6.2/10 [HIGH] | Crypto | Tier: A | Edge: +33.6%
+• Will LeBron James retire before next NBA season?...
+  14.0¢ | Vol $99,362 | ROI +614% (6.1x)
+  Score: 6.1/10 [HIGH] | Sports | Tier: A | Edge: +22.1%
+• Will Ludvig Aberg finish in the Top 10 at the 2026 PGA ...
+  17.0¢ | Vol $993 | ROI +488% (4.9x)
+  Score: 6.1/10 [HIGH] | Sports | Tier: C | Edge: +2.3%
+• Will Michael Stansfield advance from the CA-06 primary ...
+  2.5¢ | Vol $988 | ROI +3822% (38.2x)
+  Score: 5.9/10 [HIGH] | Politics | Tier: B | Edge: +29.0%
+• Will Monero hit $1000 in 2026?...
+  15.5¢ | Vol $99,269 | ROI +545% (5.5x)
+  Score: 5.7/10 [HIGH] | Other | Tier: B | Edge: +15.0%
+
+📈 VOLUME SPIKES (0 found)
+  -
+
+🔄 PATTERNS (1 found)
+• CONTRARIAN: Will the US acquire part of Greenland in 2026...
+  No $86% | Vol $9,974,364
+  Score: 4.5/10 [LOW] | Other
+
+🐋 LARGE TRADES (0 found)
+  -
+
+🎯 WHALE ACTIVITY (0 found)
+  -
+
+🔗 CORRELATIONS (3 found)
+• [HIGH] Will the highest temperature in Moscow be 19°C on May 1...
+  2.5% | ROI 38x | Temperature Markets
+  Score: 5.5/10 | Climate
+• [HIGH] Will the highest temperature in Warsaw be 20°C on May 1...
+  3.5% | ROI 28x | Temperature Markets
+  Score: 5.5/10 | Climate
+• [HIGH] Will the highest temperature in Moscow be 19°C on May 1...
+  2.7% | ROI 36x | Temperature Markets
+  Score: 5.5/10 | Climate
+
+🤖 AutoTrader v2 | 95K historical prior | DYOR
+
+___ALERT___
+🔍 POLYMARKET AUTO-TRADER
+📅 2026-05-15 04:06 UTC
+📊 Historical Prior: 95K resolved markets
+
+💰 LOW PRICE (5 found)
+• Will Bitcoin reach $88,000 May 11-17?...
+  2.5¢ | Vol $99,862 | ROI +3900% (39.0x)
+  Score: 6.2/10 [HIGH] | Crypto | Tier: A | Edge: +33.6%
+• Will LeBron James retire before next NBA season?...
+  14.0¢ | Vol $99,362 | ROI +614% (6.1x)
+  Score: 6.1/10 [HIGH] | Sports | Tier: A | Edge: +22.1%
+• Will Ludvig Aberg finish in the Top 10 at the 2026 PGA ...
+  17.0¢ | Vol $993 | ROI +488% (4.9x)
+  Score: 6.1/10 [HIGH] | Sports | Tier: C | Edge: +2.3%
+• Will Michael Stansfield advance from the CA-06 primary ...
+  2.5¢ | Vol $988 | ROI +3822% (38.2x)
+  Score: 5.9/10 [HIGH] | Politics | Tier: B | Edge: +29.0%
+• Will Monero hit $1000 in 2026?...
+  15.5¢ | Vol $99,269 | ROI +545% (5.5x)
+  Score: 5.7/10 [HIGH] | Other | Tier: B | Edge: +15.0%
+
+📈 VOLUME SPIKES (0 found)
+  -
+
+🔄 PATTERNS (1 found)
+• CONTRARIAN: Will the US acquire part of Greenland in 2026...
+  No $86% | Vol $9,974,364
+  Score: 4.5/10 [LOW] | Other
+
+🐋 LARGE TRADES (0 found)
+  -
+
+🎯 WHALE ACTIVITY (0 found)
+  -
+
+🔗 CORRELATIONS (3 found)
+• [HIGH] Will the highest temperature in Moscow be 19°C on May 1...
+  2.5% | ROI 38x | Temperature Markets
+  Score: 5.5/10 | Climate
+• [HIGH] Will the highest temperature in Warsaw be 20°C on May 1...
+  3.5% | ROI 28x | Temperature Markets
+  Score: 5.5/10 | Climate
+• [HIGH] Will the highest temperature in Moscow be 19°C on May 1...
+  2.7% | ROI 36x | Temperature Markets
+  Score: 5.5/10 | Climate
+
+🤖 AutoTrader v2 | 95K historical prior | DYOR

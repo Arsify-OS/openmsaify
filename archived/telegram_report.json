@@ -1,0 +1,71 @@
+{
+  "summary": {
+    "timestamp": "2026-05-14 07:10:00 UTC",
+    "markets_scanned": 200,
+    "total_volume_24h": 0,
+    "total_liquidity": 0,
+    "anomaly_details": [],
+    "portfolio": {
+      "filled": 0,
+      "pending": 0,
+      "total_invested": 0
+    }
+  },
+  "markets": [
+    {
+      "question": "Will XRP reach $2.00 in May?",
+      "outcomePrices": "[0.038]",
+      "volume24hr": 98418,
+      "tier": "A",
+      "category": "Crypto",
+      "score": 6.2,
+      "edge": 32.3,
+      "roi": 2532,
+      "confidence": "HIGH"
+    },
+    {
+      "question": "Will Solana reach $130 in May?",
+      "outcomePrices": "[0.022]",
+      "volume24hr": 97733,
+      "tier": "A",
+      "category": "Crypto",
+      "score": 6.2,
+      "edge": 33.8,
+      "roi": 4344,
+      "confidence": "HIGH"
+    },
+    {
+      "question": "Will Ethereum dip to $2,000 May 11-17?",
+      "outcomePrices": "[0.026]",
+      "volume24hr": 9772,
+      "tier": "S",
+      "category": "Crypto",
+      "score": 6.2,
+      "edge": 22.5,
+      "roi": 3674,
+      "confidence": "HIGH"
+    },
+    {
+      "question": "Will Ethena reach $1.20 by December 31, 2026?",
+      "outcomePrices": "[0.071]",
+      "volume24hr": 9801,
+      "tier": "A",
+      "category": "Crypto",
+      "score": 6.2,
+      "edge": 26.5,
+      "roi": 1299,
+      "confidence": "HIGH"
+    },
+    {
+      "question": "Will Detroit Pistons advance to the 2026 NBA Finals?",
+      "outcomePrices": "[0.089]",
+      "volume24hr": 977,
+      "tier": "B",
+      "category": "Sports",
+      "score": 6.1,
+      "edge": 26.7,
+      "roi": 1017,
+      "confidence": "HIGH"
+    }
+  ]
+}

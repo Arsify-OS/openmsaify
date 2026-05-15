@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project
+*.log
+data/
+cache/
+checkpoints/
+models/
+out/
+reports/
+*.jsonl
+*.csv
+*.db
+*.sqlite
+
+# Secrets — never commit
+secrets/
+*.key
+*.pem
+*.env.local
