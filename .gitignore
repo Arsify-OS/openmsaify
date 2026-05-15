@@ -44,3 +44,27 @@ secrets/
 *.key
 *.pem
 *.env.local
+
+# Data (never commit)
+data/
+historical_data/
+polymarket_cookies.json
+telegram_report.json
+dashboard_report*.txt
+
+# Config with secrets
+config/local_config.py
+.env.local
+.env.prod
+secrets/
+
+# Runtime
+*.log
+daemon.pid
+paper_trade_daemon.log
+cron.log
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
